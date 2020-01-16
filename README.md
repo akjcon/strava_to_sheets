@@ -1,2 +1,2 @@
-# strava_to_sheets
-Python app to automatically update a Google Sheets page with Strava workout data
+## Strava to Google Sheets
+A python app that scrapes data from a user's Strava posts and adds that data to a selected Google Sheets document. 
